@@ -18,7 +18,7 @@ provider "azurerm" {
 
 
 variable "resource_group" {
-  default = "azuregoat_app"
+  default = "rg-wizlabs-azurehunt"
 }
 
 variable "location" {
