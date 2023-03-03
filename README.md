@@ -58,7 +58,8 @@ Here are the steps to follow:
 **Step 1.** Clone the repo
 
 ```sh
-git clone https://github.com/ine-labs/AzureGoat
+git clone https://github.com/ine-labs/AzureGoat 
+git clone https://github.com/cyberhuntlab/azurehunt
 ```
 
 **Step 2.** Login to Azure CLI
